@@ -1,0 +1,42 @@
+.box{
+    width: 150px;
+    height: 150px;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+    margin-left: 300px;
+    margin-top: -150px;
+}
+.green{
+    background-color: green;
+    margin-left: 150px;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+    background-color: rgb(240, 10, 48);
+    margin-left: 300px;
+    margin-top: -150px;
+
+}
+.pad{
+    width: 300px;
+    height: 100px;
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.inline{
+    display: inline;
+}
+#spa{
+    color: brown;
+    font-weight: 100;
+}
